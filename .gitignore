@@ -1,1 +1,2 @@
-Vector.exe
+*.exe
+build/*
